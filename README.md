@@ -1,1 +1,5 @@
-# UseOfOpenSourceDevelopmentTools_assignment
+# 오픈소스개발도구활용 과제했던 것들
+
+리눅스의 기본 문법을 배우고,<br>
+아파치,도커,구글 클라우드르 이용해 서버르 구성하여 사이트제작 밑 배포,<br>
+mariadb와 ejs를 이용해 정보가 수정될떄마다 사이트도 수정하게끔 문제를 해결해 나갔습니다.
